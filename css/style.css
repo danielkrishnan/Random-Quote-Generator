@@ -1,0 +1,17 @@
+body, html {
+  height: 100%;
+  display: grid;
+}
+span {
+  margin: auto;
+}
+
+button {
+  margin: 5px 0 0 0;
+  
+}
+
+.quote-container {
+  max-width: 480px
+  
+}
